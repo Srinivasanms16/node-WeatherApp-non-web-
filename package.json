@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.1",
     "chalk": "^4.1.0",
     "postman-request": "^2.88.1-postman.24",
     "yargs": "^16.0.3"
